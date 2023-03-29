@@ -1,2 +1,2 @@
 # test
-git pratice
+git pratices
